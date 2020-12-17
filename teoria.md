@@ -9,4 +9,4 @@ estadis git
   .git Directory 
     -   Todos los cambios confirmados, o cambios realizados
 1       -           2            -        3
-    (git add)               (git commit)git 
+    (git add)               (git commit)
